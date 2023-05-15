@@ -1,0 +1,93 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}#a02 ul .container4 {
+	background-color: #C1B1A5;
+	text-align: center;
+	border-radius: 163px;
+	height: 38px;
+	width: 44%;
+	justify-content: center;
+	line-height: 35px;
+	margin-left: 371px;
+	margin-right: 14px;
+	font-size: 24px;
+	margin-bottom: 39px;
+	margin-top: 58px;
+}
+#a02 ul .container5 {
+	background-color: #C1B1A5;
+	width: 44%;
+	height: 38px;
+	margin-left: 368px;
+	margin-right: 14px;
+	line-height: 35px;
+	text-align: center;
+	border-radius: 210px;
+	font-size: 24px;
+	margin-top: 50px;
+	margin-bottom: 39px;
+}
+#a02 ul .container6 {
+	background-color: #C1B1A5;
+	border-radius: 230px;
+	line-height: 35px;
+	text-decoration: none;
+	text-align: center;
+	margin-left: 368px;
+	margin-right: 14px;
+	width: 44%;
+	height: 38px;
+	font-size: 24px;
+	margin-bottom: 39px;
+	margin-top: 45px;
+}
+main #a02 ul {
+	text-align: center;
+	letter-spacing: 5px;
+}
+
